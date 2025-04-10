@@ -1,0 +1,19 @@
+body {
+  color: red; /* 140 standard name colors, Hex codes */
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 1rem; /*Browser default size is 16px */
+  font-weight: normal; /*400,700,bold,bolder*/
+  line-height: 1.7; /*Can accept a unit-less value */
+  text-align: left; /* center, right, justify */
+  text-transform: capitalize; /* uppercase, lowercase, capitalize */
+  text-decoration: none; /* underline, overline, line-through */
+}
+
+h2 {
+  font-size: 2rem;
+  line-height: 1;
+  text-decoration: underline overline;
+}
+a {
+  text-decoration: none;
+}
